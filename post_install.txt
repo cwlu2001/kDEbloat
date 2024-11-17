@@ -3,8 +3,6 @@ plasma-desktop
 breeze
 sddm
 sddm-theme-breeze
-plasma-nm
-plasma-pa
 xfce4-terminal
 vlc
 ffmpeg
@@ -15,4 +13,3 @@ curl
 wget
 axel
 gh
-nano

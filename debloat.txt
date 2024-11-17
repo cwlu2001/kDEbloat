@@ -7,29 +7,21 @@ kio-extras
 kio-gdrive
 kio-admin
 kio-fuse
-kio-extras-data
 kamera
 
 # screen reader
 orca
 gstreamer1.0-gl
 gstreamer1.0-pipewire
-gstreamer1.0-plugins-good
 gstreamer1.0-plugins-base
-gstreamer1.0-x
 
 # photoviewer
 gwenview
 
 # text editor
 kate
-vim-common
-
-# terminal
-konsole
 
 # kde ecosystem
-kde-plasma-desktop
 kdeplasma-addons-data
 kdegraphics-thumbnailers
 ksystemlog
@@ -44,9 +36,5 @@ kcalc
 kwalletmanager
 signon-kwallet-extension
 okular-extra-backends
-plasma-desktop
-plasma-systemmonitor
 plasma-vaul
-plasma-discover
 info
-gnome-terminal
