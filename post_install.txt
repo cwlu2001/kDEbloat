@@ -1,0 +1,15 @@
+snapd
+plasma-desktop
+breeze
+sddm
+sddm-theme-breeze
+xfce4-terminal
+vlc
+ffmpeg
+nomacs
+htop
+btop
+curl
+wget
+axel
+gh

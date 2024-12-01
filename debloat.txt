@@ -1,0 +1,40 @@
+# dolphin plugins
+dolphin-plugins
+ffmpegthumbs
+kdenetwork-filesharing
+kio-audiocd
+kio-extras
+kio-gdrive
+kio-admin
+kio-fuse
+kamera
+
+# screen reader
+orca
+gstreamer1.0-gl
+gstreamer1.0-pipewire
+gstreamer1.0-plugins-base
+
+# photoviewer
+gwenview
+
+# text editor
+kate
+
+# kde ecosystem
+kdeplasma-addons-data
+kdegraphics-thumbnailers
+ksystemlog
+ksystemstats
+khelpcenter
+kmenuedit
+kaccounts-providers
+kaccounts-integration
+kdialog
+kup-backup
+kcalc
+kwalletmanager
+signon-kwallet-extension
+okular-extra-backends
+plasma-vaul
+info

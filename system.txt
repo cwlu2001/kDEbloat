@@ -1,4 +1,0 @@
-kcron
-khelpcenter
-ksystemlog
-kwalletmanager
